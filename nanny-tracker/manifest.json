@@ -1,0 +1,17 @@
+{
+    "name": "阿姨考勤助手",
+    "short_name": "考勤助手",
+    "description": "记录育儿阿姨上门考勤，支持语音请假",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#4CAF50",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%234CAF50' width='192' height='192' rx='30'/%3E%3Ctext x='96' y='120' font-size='80' text-anchor='middle' fill='white'%3E👩‍⚕️%3C/text%3E%3C/svg%3E",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        }
+    ]
+}
